@@ -1,6 +1,7 @@
 # ASPNET-MVC-PROJE
 
-
+The project I created with asp.net mvc
+Technologies I use:C#,HTML,CSS,JavaScript,Bootsrap
 
 ![KategorilerMain](https://github.com/paladinxsweet/ASPNET-MVC-PROJE/assets/94048854/68f99c7d-fac8-4969-8282-590fe24fde40)
 ![yeniKategoriEkle](https://github.com/paladinxsweet/ASPNET-MVC-PROJE/assets/94048854/a25faf3d-bf01-4a11-aac5-fa3a9b393b3c)
